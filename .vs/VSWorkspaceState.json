@@ -4,10 +4,8 @@
     "\\controllers",
     "\\models",
     "\\public",
-    "\\public\\css",
-    "\\views",
-    "\\views\\places"
+    "\\views"
   ],
-  "SelectedNode": "\\views\\places\\show.jsx",
+  "SelectedNode": "\\views\\show.jsx",
   "PreviewInSolutionExplorer": false
 }
